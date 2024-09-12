@@ -1,0 +1,1 @@
+# next_site_auto_tests
