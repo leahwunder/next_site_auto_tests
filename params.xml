@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <SET>
+        <BROWSER>Chrome</BROWSER>
+    </SET>
+    <SET>
+        <EMAIL>someone@gmail.com</EMAIL>
+        <PASSWORD>pass123</PASSWORD>
+    </SET>
+
+
+
+</config>
